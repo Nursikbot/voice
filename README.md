@@ -7,7 +7,7 @@
 ## Проект содержит ссылки на загрузку датасетов и обученной модели::
 1) RAVDESS -> https://drive.google.com/file/d/1gn79SrzmBDclSP6q75UUs2hZ42cIeqkf/view?usp=sharing
 2) Тестовый датасет -> https://drive.google.com/file/d/1--3dUqmNRJyhj2Ht1gl9ktoRaafbuHhw/view?usp=sharing
-3) Веса и состояние оптимизатора модели (.pth) -> https://drive.google.com/file/d/1ZZPWhGp5fd3VrtBNI4EXo8QF5ogQIUy4/view?usp=sharing
+3) Веса и состояние оптимизатора модели (.pth) -> https://drive.google.com/file/d/1BjPw71cFu92KAmWpoN5b5__vxfgJUfgK/view?usp=sharing
 
 ### Плюсы Wav2Vec 2.0:
 1) Извлечение признаков: Энкодер модели выделяет признаки из аудиосигнала без привязки к языку или транскрипции. Он сжимает сигнал до вектора фиксированной длины, обучаясь предсказывать его части по аналогии с методами NLP, где модель восстанавливает замаскированные участки.
